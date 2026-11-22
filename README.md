@@ -52,4 +52,6 @@ Python을 활용하여 데이터 탐색, 전처리, 시각화, 머신러닝 모�
 | Recall | 0.00% | **74.00%** |
 | F1-score | 0.00% | **77.49%** |
 
-- **Accuracy Improvement:** +21
+- **Accuracy Improvement:** +21.76 percentage points
+- **5-Fold CV Mean Accuracy:** 80.51%
+- **Selected max_depth:** 3
